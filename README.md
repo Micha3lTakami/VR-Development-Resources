@@ -8,7 +8,7 @@ Welcome!<br>
 
 - Currently maintained by **Michael Takami**(@Micha3ltakami on GitHub)
 
-## Installation
+## Installation and Usage
 In whatever folder you'd like to store the repository in. 
 ```
 git clone https://github.com/thubbardnd/VR-Development-Resources.git
